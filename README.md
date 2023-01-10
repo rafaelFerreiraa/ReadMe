@@ -23,7 +23,7 @@ Hi, i'm an portuguese guy with an interest in programming & mathematics 💻. I'
 [github_profile]: https://github.com/rafaelferreiraa "Github Profile"
 
 <!-- badges -->
-[gmail_badge]: https://img.shields.io/badge/-martin.deboute%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael,development.ferreira@gmail.com
+[gmail_badge]: https://img.shields.io/badge/-rafael.ferreira@gmail.com%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael,development.ferreira@gmail.com
 
 -----
 Credits: [rafaelferreira](https://github.com/rafaelferreiraa)
